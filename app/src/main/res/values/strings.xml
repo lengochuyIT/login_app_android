@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Design UI Login</string>
+    <string name="enter_the_user_name">Nhập tài khoản</string>
+    <string name="enter_the_pass_word">Nhập mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="enter_the_email">Nhập email</string>
+    <string name="enter_the_pass_word_1">Nhập lại mật khẩu</string>
+    <string name="ng_k">Đăng ký</string>
+    <string name="or_login">Hoặc đăng nhập với</string>
+</resources>
